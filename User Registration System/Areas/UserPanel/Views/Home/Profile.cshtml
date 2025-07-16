@@ -1,0 +1,131 @@
+﻿@model User_Registration_System.Models.ViewModels.UserPanelVM
+@{
+    ViewData["Title"] = "پنل کاربری" + User.Identity.Name;
+}
+<main class="main">
+
+    <div class="site-breadcrumb">
+        <div class="site-breadcrumb-bg" style="background: url(/assets/img/breadcrumb/01.jpg)"></div>
+        <div class="container">
+            <div class="site-breadcrumb-wrap">
+                <h4 class="breadcrumb-title">نمایه من</h4>
+                <ul class="breadcrumb-menu">
+                    <li><a asp-area="" asp-action="HomePage" asp-controller="Home" asp-area=""><i class="far fa-home"></i> صفحه اصلی</a></li>
+                    <li class="active">نمایه من</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="user-area bg pt-100 pb-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <partial name="_Sidebar" />
+                </div>
+                <div class="col-lg-9">
+                    <div class="user-wrapper">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="user-card">
+                                    @if (!ViewData.ModelState.IsValid)
+                                    {
+                                        <div class="alert alert-danger">
+                                            <ul>
+                                                @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                                                {
+                                                    <li>@error.ErrorMessage</li>
+                                                }
+                                            </ul>
+                                        </div>
+                                    }
+                                    <h4 class="user-card-title">اطلاعات پروفایل</h4>
+                                    <div class="user-form">
+                                        <form asp-area="UserPanel" asp-controller="Home" asp-action="EditProfile" method="post" enctype="multipart/form-data">
+                                            <div asp-validation-summary="All" class="text-danger"></div>
+
+                                            <div class="form-group">
+                                                <label>نام کاربری</label>
+                                                <input asp-for="EditProfileViewModel.userName" class="form-control" />
+                                                <span asp-validation-for="EditProfileViewModel.userName" class="text-danger"></span>
+                                            </div>
+
+                                            <div class="form-group">
+                                                <label>ایمیل</label>
+                                                <input asp-for="EditProfileViewModel.userEmail" class="form-control" />
+                                                <span asp-validation-for="EditProfileViewModel.userEmail" class="text-danger"></span>
+                                            </div>
+
+                                            <button type="submit" class="btn btn-primary">ذخیره تغییرات</button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            @if (TempData["SuccessMessage"] != null)
+                            {
+                                <div class="alert alert-success">
+                                    @TempData["SuccessMessage"]
+                                </div>
+                            }
+                            @if (TempData["ErrorMessage"] != null)
+                            {
+                                <div class="alert alert-danger">
+                                    @TempData["ErrorMessage"]
+                                </div>
+                            }
+                            <div class="col-lg-12">
+                                <div class="user-card">
+                                    <h4 class="user-card-title">تغییر پسورد</h4>
+                                    <div class="col-lg-12">
+                                        <div class="user-card">
+                                            <div class="col-lg-12">
+                                                <div class="user-form">
+                                                    <form asp-area="UserPanel" asp-controller="Home" asp-action="ResetPassword" method="post">
+                                                        <div class="row">
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <label>پسورد قدیمی</label>
+                                                                    <input asp-for="ResetPasswordViewModel.oldPassword" type="password" class="form-control" placeholder="پسورد قدیمی">
+                                                                    <span asp-validation-for="ResetPasswordViewModel.oldPassword" class="text-danger"></span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <label>پسورد جدید</label>
+                                                                    <input asp-for="ResetPasswordViewModel.newPassword" type="password" class="form-control" placeholder="پسورد جدید">
+                                                                    <span asp-validation-for="ResetPasswordViewModel.newPassword" class="text-danger"></span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-12">
+                                                                <div class="form-group">
+                                                                    <label>تایپ مجدد پسورد جدید</label>
+                                                                    <input asp-for="ResetPasswordViewModel.rePassword" type="password" class="form-control" placeholder="تایپ مجدد پسورد">
+                                                                    <span asp-validation-for="ResetPasswordViewModel.rePassword" class="text-danger"></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <button type="submit" class="theme-btn">
+                                                            <span class="far fa-key"></span>
+                                                            پسورد را تغییر دهید
+                                                        </button>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+@section Scripts {
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+

@@ -1,0 +1,90 @@
+﻿@model User_Registration_System.Models.ViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "ثبت نام";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <div class="site-breadcrumb">
+        <div class="site-breadcrumb-bg" style="background: url(/assets/img/breadcrumb/01.jpg)"></div>
+        <div class="container">
+            <div class="site-breadcrumb-wrap">
+                <h4 class="breadcrumb-title">ثبت نام</h4>
+                <ul class="breadcrumb-menu">
+                    <li><a href="index.html"><i class="far fa-home"></i> صفحه اصلی</a></li>
+                    <li class="active">ثبت نام</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="login-area py-100">
+        <div class="container">
+            <div class="col-md-5 mx-auto">
+                <div class="login-form">
+                    <div class="login-header">
+                        <img src="/assets/img/logo/logo.png" alt="لوگو">
+                        <p>حساب رایگان خود را ایجاد کنید</p>
+                    </div>
+                    <form asp-action="Register" method="post">
+                        <div class="form-group">
+                            <label>نام کاربری</label>
+                            <input asp-for="userName" type="text" class="form-control" placeholder="نام شما">
+                            <span asp-validation-for="userName" class="text-bg-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>آدرس ایمیل</label>
+                            <input asp-for="userEmail" type="email" class="form-control" placeholder="ایمیل شما">
+                            <span asp-validation-for="userEmail" class="text-bg-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>پسورد</label>
+                            <div class="input-group" style="position: relative">
+                                <input asp-for="password" type="password" class="form-control" id="passwordField" placeholder="گذرواژه شما">
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary" type="button" id="togglePassword" style="position: absolute; left: 10px; top: 50%;
+                                        transform: translateY(-50%); background: none; border: none; cursor: pointer;">
+                                        <i class="far fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <span asp-validation-for="password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>تکرار پسورد</label>
+                            <input asp-for="repeatPassword" type="password" class="form-control" placeholder="گذرواژه شما">
+                            <span asp-validation-for="repeatPassword" class="text-bg-danger"></span>
+                        </div>
+                        <div class="form-check form-group">
+                            <input class="form-check-input" type="checkbox" value id="agree">
+                            <label class="form-check-label" for="agree">
+                                من با <a href="#">شرایط خدمات</a> موافقم
+                            </label>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <button type="submit" class="theme-btn"><i class="far fa-paper-plane"></i> ثبت نام</button>
+                        </div>
+                    </form>
+                    <div class="login-footer">
+                        <p>از قبل حساب کاربری دارید؟ <a asp-action="Login" asp-controller="Account">وارد شوید</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main>
+<script>
+    document.getElementById('togglePassword').addEventListener('click', function () {
+        var passwordField = document.getElementById('passwordField');
+        if (passwordField.type === 'password') {
+            passwordField.type = 'text';
+            this.innerHTML = '<i class="far fa-eye-slash"></i>';
+        } else {
+            passwordField.type = 'password';
+            this.innerHTML = '<i class="far fa-eye"></i>';
+        }
+    });
+</script>

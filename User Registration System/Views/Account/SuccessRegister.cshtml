@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "ثبت نام موفق";
+    Layout = "/Views/Shared/_Layout.cshtml";
+}
+
+<main class="main">
+
+    <div class="site-breadcrumb">
+        <div class="site-breadcrumb-bg" style="background: url(/assets/img/breadcrumb/baner-min.jpg)"></div>
+        <div class="container">
+            <div class="site-breadcrumb-wrap">
+                <h4 class="breadcrumb-title">ثبت نام موفق</h4>
+                <ul class="breadcrumb-menu">
+                    <li><a asp-action="HomePage" asp-controller="Home"><i class="far fa-home"></i> صفحه اصلی</a></li>
+                    <li class="active">موفقیت ایمیل</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="mail-success py-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 mx-auto">
+                    <div class="mail-success-content">
+                        <div class="mail-success-icon"><i class="fal fa-envelope-circle-check"></i></div>
+                        <h3>ثیت نام شما با موفقیت انجام شد</h3>
+                        <p>
+                            می توانید از طریق دکمه زیر، به پنل کاربری خود، وارد شوید.
+                        </p>
+                        <a asp-action="Login" asp-controller="Account" class="theme-btn">ورود به سایت<i class="far fa-home"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</main>
+

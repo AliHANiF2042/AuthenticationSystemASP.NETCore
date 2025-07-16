@@ -1,0 +1,88 @@
+﻿@model User_Registration_System.Models.ViewModels.LoginViewModel
+@{
+    ViewData["Title"] = "ورود";
+}
+<main class="main">
+    <div class="site-breadcrumb">
+        <div class="site-breadcrumb-bg" style="background: url(/assets/img/breadcrumb/01.jpg)"></div>
+        <div class="container">
+            <div class="site-breadcrumb-wrap">
+                <h4 class="breadcrumb-title">ورود به سیستم</h4>
+                <ul class="breadcrumb-menu">
+                    <li><a asp-action="HomePage" asp-controller="Home"><i class="far fa-home"></i> صفحه اصلی</a></li>
+                    <li class="active">ورود به سیستم</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="login-area py-90">
+        <div class="container">
+            <div class="col-md-7 col-lg-5 mx-auto">
+                <div class="login-form">
+                    <div class="login-header">
+                        <img src="/assets/img/logo/logo.png" alt="لوگو">
+                        <p>با حساب خود وارد شوید</p>
+                    </div>
+                    <form asp-action="Login" method="post">
+                        <div class="form-group">
+                            <label>نام کاربری</label>
+                            <input asp-for="userName" type="text" class="form-control" placeholder="نام کاربری شما">
+                            <span asp-validation-for="userName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>آدرس ایمیل</label>
+                            <input asp-for="userEmail" type="email" class="form-control" placeholder="ایمیل شما">
+                            <span asp-validation-for="userEmail" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>پسورد</label>
+                            <div class="input-group" style="position: relative">
+                                <input asp-for="password" type="password" class="form-control" id="passwordField" placeholder="گذرواژه شما">
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary" type="button" id="togglePassword" style="position: absolute; left: 10px; top: 50%;
+                                        transform: translateY(-50%); background: none; border: none; cursor: pointer;">
+                                        <i class="far fa-eye"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <span asp-validation-for="password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label>تکرار پسورد</label>
+                            <input asp-for="repeatPassword" type="password" class="form-control" placeholder="گذرواژه شما">
+                            <span asp-validation-for="repeatPassword" class="text-danger"></span>
+                        </div>
+                        <div class="d-flex justify-content-between mb-4">
+                            <div class="form-check">
+                                <input asp-for="rememberMe" class="form-check-input" type="checkbox" id="remember">
+                                <label class="form-check-label" for="remember">
+                                    مرا به خاطر بسپار
+                                </label>
+                            </div>
+                            <a asp-action="ResetPassword" asp-controller="Home" asp-area="UserPanel" class="forgot-pass">گذرواژه را فراموش کرده‌اید؟</a>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <button type="submit" class="theme-btn"><i class="far fa-sign-in"></i> ورود</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</main>
+<script>
+    document.getElementById('togglePassword').addEventListener('click', function () {
+        var passwordField = document.getElementById('passwordField');
+        if (passwordField.type === 'password') {
+            passwordField.type = 'text';
+            this.innerHTML = '<i class="far fa-eye-slash"></i>';
+        } else {
+            passwordField.type = 'password';
+            this.innerHTML = '<i class="far fa-eye"></i>';
+        }
+    });
+</script>
+

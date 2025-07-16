@@ -1,0 +1,94 @@
+﻿
+
+<main class="main">
+    <div class="site-breadcrumb">
+        <div class="site-breadcrumb-bg" style="background: url(/assets/img/breadcrumb/01.jpg)"></div>
+        <div class="container">
+            <div class="site-breadcrumb-wrap">
+                <h4 class="breadcrumb-title">لیست علاقه‌مندی‌های من</h4>
+                <ul class="breadcrumb-menu">
+                    <li><a asp-area="" asp-action="HomePage" asp-controller="Home"><i class="far fa-home"></i> صفحه اصلی</a></li>
+                    <li class="active">لیست علاقه‌مندی‌های من</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="user-area bg pt-100 pb-80">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <partial name="_Sidebar" />
+                </div>
+                <div class="col-lg-9">
+                    <div class="user-wrapper">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="user-card">
+                                    <h4 class="user-card-title">لیست علاقه‌مندی‌های من</h4>
+                                    <div class="row g-4 mt-20 item-2">
+                                        @if (Model != null && Model.Any())
+                                        {
+                                            foreach (var product in Model)
+                                            {
+                                                <div class="col-md-6 col-lg-4">
+                                                    <div class="product-item">
+                                                        <div class="product-img">
+                                                            <a href="/ProductDetails/@product.productId">
+                                                                <img src="/Products/images/@product.productImageName" alt="@product.productName">
+                                                            </a>
+                                                            <div class="product-action-wrap">
+                                                                <div class="product-action">
+                                                                    <!-- دکمه حذف از علاقه‌مندی‌ها -->
+                                                                    <form asp-action="RemoveProductsFromWishlist" asp-controller="Home" asp-area="UserPanel" method="post">
+                                                                        <input type="hidden" name="productId" value="@product.productId" />
+                                                                        <button type="submit" class="btn btn-danger" data-bs-placement="left" data-tooltip="tooltip"
+                                                                                title="حذف از علاقه‌مندی‌ها">
+                                                                            <i class="far fa-xmark"></i>
+                                                                        </button>
+                                                                    </form>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="product-content">
+                                                            <h3 class="product-title">
+                                                                <a href="/ProductDetails/@product.productId">
+                                                                    @product.productName
+                                                                </a>
+                                                            </h3>
+                                                            <div class="product-rate">
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </div>
+                                                            <div class="product-bottom">
+                                                                <div class="product-price">
+                                                                    <span>@product.productPrice.ToString("N0") تومان</span>
+                                                                </div>
+                                                                <button type="button" class="product-cart-btn"
+                                                                        data-bs-placement="right" data-tooltip="tooltip"
+                                                                        title="افزودن به سبد خرید">
+                                                                    <i class="far fa-shopping-bag"></i>
+                                                                </button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            }
+                                        }
+                                        else
+                                        {
+                                            <p>لیست علاقه‌مندی‌های شما خالی است.</p>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

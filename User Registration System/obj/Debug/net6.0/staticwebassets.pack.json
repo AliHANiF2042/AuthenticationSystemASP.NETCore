@@ -1,0 +1,1029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\User Registration System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\User Registration System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\all-fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\all-fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\cssfont.css",
+      "PackagePath": "staticwebassets\\assets\\css\\cssfont.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\flex-slider.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\flex-slider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\nice-select.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb.eot",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb.eot"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb.woff",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb.woff"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb.woff2",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb_FaNum.eot",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb_FaNum.eot"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb_FaNum.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb_FaNum.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb_FaNum.woff",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb_FaNum.woff"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\IRANSansWeb_FaNum.woff2",
+      "PackagePath": "staticwebassets\\assets\\font\\IRANSansWeb_FaNum.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\New folder\\IRANSans-web.eot",
+      "PackagePath": "staticwebassets\\assets\\font\\New folder\\IRANSans-web.eot"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\New folder\\IRANSans-web.ttf",
+      "PackagePath": "staticwebassets\\assets\\font\\New folder\\IRANSans-web.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\font\\New folder\\IRANSans-web.woff",
+      "PackagePath": "staticwebassets\\assets\\font\\New folder\\IRANSans-web.woff"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-sharp-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-sharp-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\about\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\account\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\account\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\account\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\account\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\account\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\account\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\big-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\big-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mega-menu-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mega-menu-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mid-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mid-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mid-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mid-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mini-banner-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mini-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mini-banner-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mini-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\mini-banner-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\mini-banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\popup-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\popup-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\banner\\shop-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner\\shop-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\author.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\com-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\com-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\com-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\com-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\blog\\single.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\02.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\03.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\04.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\05.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\brand\\06.png",
+      "PackagePath": "staticwebassets\\assets\\img\\brand\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\breadcrumb\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\breadcrumb\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\category\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\category\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\coming-soon\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coming-soon\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\error\\01.png",
+      "PackagePath": "staticwebassets\\assets\\img\\error\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\award.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\award.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\camera.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\charger.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\charger.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\desktop.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\desktop.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\drone.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\drone.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\earbuds.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\earbuds.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\employee.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\employee.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\experience.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\experience.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\game-controller.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\game-controller.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\headphone.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\headphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\laptop.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\printer.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\printer.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\quote.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\rating.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\rating.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\shopping.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\shopping.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\smart-watch.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\smart-watch.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\smartphone.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\smartphone.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\icon\\tv.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icon\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\instagram\\07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\instagram\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\logo\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\newsletter\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\newsletter\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\amex.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\amex.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\cod-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\cod-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\discover.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\mastercard.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\payoneer.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\payoneer.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\paypal-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\paypal-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\paypal.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\payment\\visa.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\payment\\visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p1.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p10.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p10.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p11.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p11.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p12.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p12.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p13.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p13.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p14.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p14.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p15.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p15.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p16.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p16.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p17.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p17.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p18.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p18.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p19.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p19.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p2.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p20.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p20.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p21.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p21.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p22.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p22.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p23.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p23.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p24.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p24.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p25.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p25.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p26.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p26.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p27.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p27.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p28.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p28.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p29.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p29.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p3.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p30.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p30.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p31.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p31.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p32.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p32.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p33.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p33.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p34.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p34.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p36.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p36.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p37.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p37.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p38.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p38.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p39.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p39.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p4.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p40.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p40.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p42.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p42.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p45.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p45.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p46.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p46.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p5.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p51.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p51.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p56.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p56.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p57.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p57.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p59.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p59.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p6.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p7.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p8.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p8.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\product\\p9.png",
+      "PackagePath": "staticwebassets\\assets\\img\\product\\p9.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\hero-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\hero-1.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\hero-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\hero-2.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\hero-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\hero-3.png"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\slider-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\slider-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\slider\\slider-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\slider-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\team\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\team\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\team\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\team\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\testimonial\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\testimonial\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\testimonial\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\testimonial\\04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\testimonial\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\img\\video\\01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\contact-form.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact-form.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\counter-up.js",
+      "PackagePath": "staticwebassets\\assets\\js\\counter-up.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\flex-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\flex-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asrenovin\\source\\repos\\User Registration System\\User Registration System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.User Registration System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.User Registration System.props",
+      "PackagePath": "build\\User Registration System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.User Registration System.props",
+      "PackagePath": "buildMultiTargeting\\User Registration System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.User Registration System.props",
+      "PackagePath": "buildTransitive\\User Registration System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
